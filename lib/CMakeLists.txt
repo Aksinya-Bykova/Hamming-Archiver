@@ -1,0 +1,1 @@
+add_library(archiver archive.cpp archive.h file.h file.cpp parser.cpp parser.h)
